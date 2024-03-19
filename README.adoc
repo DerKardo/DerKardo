@@ -1,3 +1,7 @@
 = Welcome to my Profile
 
-In the future weeks and months, this will (hopefully) get more and more filled with projects!
+:toc:
+
+== Introduction to myself
+
+ I'm Benjamin and i've been programming since 2017.
