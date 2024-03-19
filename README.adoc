@@ -1,13 +1,32 @@
 = Welcome to my Profile
-
 :toc:
 
 == Introduction to myself
 
-I'm Benjamin. I currently live in Bielefeld and i've been programming since 2017.
+I'm Benjamin 🐸 I currently live in Bielefeld 🔍 and i've been programming 👨‍💻 since 2017.
 
 
 == Experience
-
 Here's a collection of languages, frameworks and libraries, in which i gathered knowledge in:
-image::https://www.php.net/images/logos/new-php-logo.png[link="https://www.php.net"]
+
+[cols="0,0"]
+image:https://www.php.net/images/logos/new-php-logo.png[50,50,link="https://www.php.net"]
+image:https://durableprogramming.com/wp-content/uploads/2023/04/JavaScript-logo.png[50,50,link="https://www.javascript.com"]
+image:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png[50,50,link="https://react.dev/"]
+image:https://laravel.com/img/logomark.min.svg[50,50,link="https://laravel.com/"] 
+image:https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_169577.png[50,50,link="https://www.java.com"]
+image:https://freecomputerbooks.com/covers/Visual-Basic-for-Applications.gif[50,50]
+image:https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gamemaker/gamemaker.png[50,50,link="https://manual.gamemaker.io/monthly/en/#t=Content.htm"]
+image:https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png[50,50,link="https://www.docker.com/"]
+image:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png[50,50,link="https://www.python.org/"]
+
+
+== Fun Facts
+
+* I'm interested in everything
+* More hobbies, than time to fulfill them all
+* Beer doesn't taste good
+* I use arch btw
+
+== Final mesage
+🏳️‍🌈 Humanrights are for everyone 🏳️‍🌈
